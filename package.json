@@ -1,0 +1,6 @@
+{
+  "name": "threadback", "version": "1.0.0", "private": true, "type": "module",
+  "description": "A return card for interrupted study: your place, decision and next action.",
+  "scripts": {"start": "node server.mjs", "test": "node --test"},
+  "engines": {"node": ">=20"}, "license": "MIT"
+}
